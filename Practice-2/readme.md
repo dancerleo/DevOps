@@ -1,5 +1,9 @@
 Задача 2
 
+ВМ успешно запущена. Изменения ввиду ограничения доступа до репозиториев:
+- изменение пути до образа
+- замена репозиториев для установки пакетов
+
 vagrant@server1:~$ docker --version && docker compose version
 Docker version 28.1.1, build 4eba377
 Docker Compose version v2.35.1
